@@ -1,4 +1,4 @@
-# se-final-project
+# PROGRAM KASIR TOKO LAPTOP
 Kalkulator Toko Laptop
 
 Kalkulator ini digunakan untuk menghitung harga total dari sebuah toko laptop dan terdapat diskon jika harga diatas 15 juta
