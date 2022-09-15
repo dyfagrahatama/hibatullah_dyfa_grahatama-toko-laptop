@@ -5,6 +5,6 @@
 5.Melakukan cek kondisi apakah harga diatas 15 juta.
     Jika harga diatas 15 juta maka akan dikalikan dengan diskon 10% dari jumlah harga
     Jika tidak, maka diskon tidak diberikan
-6.Melakukan perhitungan harga
-7.Melakukan print hasil
+6.Melakukan total harga
+7.Melakukan print total harga
 8.Selesai
