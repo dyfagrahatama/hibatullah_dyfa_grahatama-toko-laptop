@@ -1,1 +1,3 @@
 Mulai program
+Memilih laptop yang akan dibeli
+Menentukan jumlah laptop yang dibeli
