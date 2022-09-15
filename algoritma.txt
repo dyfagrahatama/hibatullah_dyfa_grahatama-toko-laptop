@@ -1,10 +1,10 @@
-1.Mulai program
-2.Memilih laptop yang akan dibeli
-3.Menentukan jumlah laptop yang dibeli
-4.Melakukan perhitungan jumlah barang dikalikan harga laptop
+1.Mulai program.
+2.Memilih laptop yang akan dibeli.
+3.Menentukan jumlah laptop yang dibeli.
+4.Melakukan perhitungan jumlah barang dikalikan harga laptop.
 5.Melakukan cek kondisi apakah harga diatas 15 juta.
-    Jika harga diatas 15 juta maka akan dikalikan dengan diskon 10% dari jumlah harga
-    Jika tidak, maka diskon tidak diberikan
-6.Melakukan total harga
-7.Melakukan print total harga
-8.Selesai
+    Jika harga diatas 15 juta maka akan dikalikan dengan diskon 10% dari jumlah harga.
+    Jika tidak, maka diskon tidak diberikan.
+6.Melakukan total harga.
+7.Melakukan print total harga.
+8.Selesai.
