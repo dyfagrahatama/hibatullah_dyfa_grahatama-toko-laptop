@@ -3,7 +3,7 @@
 3.Menentukan jumlah laptop yang dibeli
 4.Melakukan perhitungan jumlah barang dikalikan harga laptop
 5.Melakukan cek kondisi apakah harga diatas 15 juta.
-    Jika harga diatas 15 juta maka akan dikalikan dengan diskon dari jumlah harga
+    Jika harga diatas 15 juta maka akan dikalikan dengan diskon 10% dari jumlah harga
     Jika tidak, maka diskon tidak diberikan
 6.Melakukan perhitungan harga
 7.Melakukan print hasil
