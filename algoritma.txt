@@ -5,3 +5,6 @@ Melakukan perhitungan jumlah barang dikalikan harga laptop
 Melakukan cek kondisi apakah harga diatas 15 juta.
 Jika harga diatas 15 juta maka akan dikalikan dengan diskon dari jumlah harga
 Jika tidak, maka diskon tidak diberikan
+Melakukan perhitungan harga
+Melakukan print hasil
+Selesai
